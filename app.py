@@ -4,8 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="醫師團課揪團生成器", page_icon="👨‍⚕️")
 
 # --- 標題區 ---
-st.title("👨‍⚕️ 醫師團課揪團生成器 (AI Powered)")
-st.caption("🚀 這是由 Google AI Studio 輔助生成的程式碼")
+st.title("醫師團課揪團生成器 (AI Powered)")
 st.markdown("只要填寫課程資訊，就能一鍵生成精美的 LINE/FB 揪團文案！")
 
 # --- 輸入區 ---
